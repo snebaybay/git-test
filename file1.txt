@@ -1,4 +1,8 @@
 # file1.txt
 
 don tran
+<<<<<<< HEAD
 Matt Beard
+=======
+JasonAbkowitz
+>>>>>>> 0815737b9e2c747cf92fca127a945142c5bbf3ab
